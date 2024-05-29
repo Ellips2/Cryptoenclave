@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Chapters Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Chapters
+  m_TableCollectionNameGuidString: 22a97dd139e509a44b70a043c79d2a7a
+  m_Entries:
+  - m_Id: 70430879744
+    m_Key: aboutTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78504914944
+    m_Key: aboutSubTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81407373312
+    m_Key: aboutPurpose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874591232
+    m_Key: aboutMain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278529015148544
+    m_Key: aboutRegistry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1475227540385792
+    m_Key: "\u0441hallengeTitle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1475139959123968
+    m_Key: "\u0441hallengeMain"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1529984111996928
+    m_Key: functionsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530030941401088
+    m_Key: functionsMain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530764579696640
+    m_Key: effectsTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530826693144576
+    m_Key: effects_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530917223002112
+    m_Key: effects_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530919374680064
+    m_Key: effects_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530922059034624
+    m_Key: effects_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1531206063747072
+    m_Key: effects_5
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3931420950099132799
+  references:
+    version: 2
+    RefIds:
+    - rid: 3931420950099132799
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1716642257058
