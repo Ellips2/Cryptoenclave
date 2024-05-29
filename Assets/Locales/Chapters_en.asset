@@ -59,22 +59,22 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1530030941401088
-    m_Localized: 'Blind machine learning (AutoML) without the ability to view downloaded
+    m_Localized: '- Blind machine learning (AutoML) without the ability to view downloaded
       information
 
 
-      Clustering to distribute the load across tasks
+      - Clustering to distribute the load across tasks
 
 
-      Physical
-      and virtual security
+      -
+      Physical and virtual security
 
 
-      Input quality control
+      - Input quality control
 
 
-      Validation and monitoring
-      of models and outputs'
+      - Validation
+      and monitoring of models and outputs'
     m_Metadata:
       m_Items: []
   - m_Id: 1530764579696640
