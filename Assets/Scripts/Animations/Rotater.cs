@@ -8,8 +8,7 @@ public class Rotater : MonoBehaviour
 
     private void Start()
     {
-        transform.Rotate(new Vector3(0, Random.Range(0, 360), 0));
         transform.DOLocalRotate(direction, durationRotate, RotateMode.FastBeyond360)
-            .SetRelative(true).SetEase(Ease.Linear).SetLoops(-1);
+            .SetRelative(true).SetEase(Ease.Linear).SetLoops(-1).SetDelay(Random.Range(0, 1f));
     }
 }

@@ -11,7 +11,7 @@ public class Mover : MonoBehaviour
     {
         if (isLoop)
             transform.DOLocalMove(targetPoint, durationMove).
-                SetEase(Ease.Linear).SetLoops(-1, LoopType.Yoyo).SetDelay(1f);
+                SetEase(Ease.InOutCubic).SetLoops(-1, LoopType.Yoyo).SetDelay(Random.Range(0, 1f));
         else
             transform.DOLocalMove(targetPoint, durationMove).
                 SetEase(Ease.Linear);
