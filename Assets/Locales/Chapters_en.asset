@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Chapters_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 22a97dd139e509a44b70a043c79d2a7a, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 3931421045908308615
+  m_TableData:
+  - m_Id: 6874591232
+    m_Localized: "The software and hardware complex (SHC) allows you to download
+      protected data of different companies, including personal data, banking secrecy,
+      communication secrecy, medical secrecy and others, and develop model services
+      using AutoML mechanisms without actual access to the data themselves - \u201Cblind
+      learning\u201D."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70430879744
+    m_Localized: Secure Computing Platform
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78504914944
+    m_Localized: 'Cryptoenclave '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81407373312
+    m_Localized: For insurance companies, car sharing, government departments
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278529015148544
+    m_Localized: Included in the register of Russian software
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1475139959123968
+    m_Localized: In digital services, the greatest effect is achieved through the
+      synergy of data from different companies (DataFusion) and the development of
+      models based on the combined data. But direct exchange of such information
+      is either impossible or significantly limited.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1475227540385792
+    m_Localized: Challenge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1529984111996928
+    m_Localized: Functions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530030941401088
+    m_Localized: 'Blind machine learning (AutoML) without the ability to view downloaded
+      information
+
+
+      Clustering to distribute the load across tasks
+
+
+      Physical
+      and virtual security
+
+
+      Input quality control
+
+
+      Validation and monitoring
+      of models and outputs'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530764579696640
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530826693144576
+    m_Localized: Additional business effect from the introduction of new client services
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530917223002112
+    m_Localized: Effective opening of sales points based on geoanalytical models
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1530919374680064
+    m_Localized: Creating effective anti-fraud solutions
+    m_Metadata:
+      m_Items:
+      - rid: 3931421045908308615
+  - m_Id: 1530922059034624
+    m_Localized: Personalized offers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1531206063747072
+    m_Localized: Targeted communications
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3931421045908308615
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00f081f15c700500
